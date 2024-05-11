@@ -1,0 +1,67 @@
+1、{"action":"","areaCode":"","berthCode":"","callCode":"1","callTyp":"","clientCode":"","cooX":18820.0,"cooY":169{"action":"","areaCode":"","berthCode":"","callCode":"4","callTyp":"","clientCode":"","cooX":10245.0,"cooY":18052.0,"ctnrCode":"","ctnrTyp":"","currentCallCode":"2002","currentPositionCode":"2002","data":"","indBind":"","mapCode":"AA","mapDataCode":"010245AA018052","mapShortName":"","materialLot":"","method":"leave","orgCode":"","podCode":"","podDir":"","podNum":"","podTyp":"","reqCode":"186A636B4151FD2","reqTime":"2023-03-03 14:44:08","robotCode":"9596","stgBinCode":"","subTaskNum":"","taskCode":"16543","taskTyp":"","tokenCode":"","username":"","wbCode":"4"}
+返回的消息体为空
+ 2、{"action":"","areaCode":"","berthCode":"","callCode":"4","callTyp":"","clientCode":"","cooX":7995.0,"cooY":18052.0,"ctnrCode":"","ctnrTyp":"","currentCallCode":"202","currentPositionCode":"202","data":"","indBind":"","mapCode":"AA","mapDataCode":"007995AA018052","mapShortName":"","materialLot":"","method":"end","orgCode":"","podCode":"100021","podDir":"","podNum":"","podTyp":"","reqCode":"186A6368C541FCW","reqTime":"2023-03-03 14:43:58","robotCode":"9596","stgBinCode":"","subTaskNum":"","taskCode":"16543","taskTyp":"","tokenCode":"","username":"","wbCode":"4"}
+返回的消息体为空
+3、{"action":"","areaCode":"","berthCode":"","callCode":"4","callTyp":"","clientCode":"","cooX":7995.0,"cooY":18052.0,"ctnrCode":"","ctnrTyp":"","currentCallCode":"202","currentPositionCode":"202","data":"","indBind":"","mapCode":"AA","mapDataCode":"007995AA018052","mapShortName":"","materialLot":"","method":"arrive","orgCode":"","podCode":"100021","podDir":"","podNum":"","podTyp":"","reqCode":"186A63671AD1FCR","reqTime":"2023-03-03 14:43:51","robotCode":"9596","stgBinCode":"","subTaskNum":"","taskCode":"16543","taskTyp":"","tokenCode":"","username":"","wbCode":"4"}
+返回的消息体为空
+4、
+{"action":"","areaCode":"1","berthCode":"","callCode":"202","callTyp":"","clientCode":"","cooX":16295.0,"cooY":18860.0,"ctnrCode":"","ctnrTyp":"","currentCallCode":"1","currentPositionCode":"1","data":"","indBind":"","mapCode":"AA","mapDataCode":"016295AA018860","mapShortName":"","materialLot":"","method":"end","orgCode":"","podCode":"100007","podDir":"","podNum":"","podTyp":"","reqCode":"186A6360BBE1FCP","reqTime":"2023-03-03 14:43:25","robotCode":"9597","stgBinCode":"","subTaskNum":"","taskCode":"16542","taskTyp":"","tokenCode":"","username":"","wbCode":"202"}
+返回的消息体为空
+
+5、{"action":"","areaCode":"","berthCode":"","callCode":"202","callTyp":"","clientCode":"","cooX":10245.0,"cooY":18052.0,"ctnrCode":"","ctnrTyp":"","currentCallCode":"2002","currentPositionCode":"2002","data":"","indBind":"","mapCode":"AA","mapDataCode":"010245AA018052","mapShortName":"","materialLot":"","method":"leave","orgCode":"","podCode":"100007","podDir":"","podNum":"","podTyp":"","reqCode":"186A63556421FCA","reqTime":"2023-03-03 14:42:38","robotCode":"9597","stgBinCode":"","subTaskNum":"","taskCode":"16542","taskTyp":"","tokenCode":"","username":"","wbCode":"202"}
+返回的消息体为空
+
+6、{"action":"","areaCode":"","berthCode":"","callCode":"202","callTyp":"","clientCode":"","cooX":7995.0,"cooY":18052.0,"ctnrCode":"","ctnrTyp":"","currentCallCode":"202","currentPositionCode":"202","data":"","indBind":"","mapCode":"AA","mapDataCode":"007995AA018052","mapShortName":"","materialLot":"","method":"arrive","orgCode":"","podCode":"","podDir":"","podNum":"","podTyp":"","reqCode":"186A63509B11FC5","reqTime":"2023-03-03 14:42:19","robotCode":"9597","stgBinCode":"","subTaskNum":"","taskCode":"16542","taskTyp":"","tokenCode":"","username":"","wbCode":"202"}
+返回的消息体为空
+
+7、{"action":"","areaCode":"","berthCode":"","callCode":"1","callTyp":"","clientCode":"","cooX":18820.0,"cooY":16960.0,"ctnrCode":"","ctnrTyp":"","currentCallCode":"1004","currentPositionCode":"1004","data":"","indBind":"","mapCode":"AA","mapDataCode":"018820AA016960","mapShortName":"","materialLot":"","method":"leave","orgCode":"","podCode":"","podDir":"","podNum":"","podTyp":"","reqCode":"186A63188501FBP","reqTime":"2023-03-03 14:38:29","robotCode":"9595","stgBinCode":"","subTaskNum":"","taskCode":"16541","taskTyp":"","tokenCode":"","username":"","wbCode":"1"}
+返回的消息体为空
+
+8、{"action":"","areaCode":"","berthCode":"","callCode":"1","callTyp":"","clientCode":"","cooX":21395.0,"cooY":16960.0,"ctnrCode":"","ctnrTyp":"","currentCallCode":"104","currentPositionCode":"104","data":"","indBind":"","mapCode":"AA","mapDataCode":"021395AA016960","mapShortName":"","materialLot":"","method":"end","orgCode":"","podCode":"100023","podDir":"","podNum":"","podTyp":"","reqCode":"186A6314C3D1FBK","reqTime":"2023-03-03 14:38:14","robotCode":"9595","stgBinCode":"","subTaskNum":"","taskCode":"16541","taskTyp":"","tokenCode":"","username":"","wbCode":"1"}
+返回的消息体为空
+
+9、{"action":"","areaCode":"","berthCode":"","callCode":"14","callTyp":"","clientCode":"","cooX":18820.0,"cooY":13485.0,"ctnrCode":"","ctnrTyp":"","currentCallCode":"1007","currentPositionCode":"1007","data":"","indBind":"","mapCode":"AA","mapDataCode":"018820AA013485","mapShortName":"","materialLot":"","method":"leave","orgCode":"","podCode":"","podDir":"","podNum":"","podTyp":"","reqCode":"186A63142261FBI","reqTime":"2023-03-03 14:38:11","robotCode":"9596","stgBinCode":"","subTaskNum":"","taskCode":"16540","taskTyp":"","tokenCode":"","username":"","wbCode":"14"}
+返回的消息体为空
+
+10{"action":"","areaCode":"","berthCode":"","callCode":"1","callTyp":"","clientCode":"","cooX":21395.0,"cooY":16960.0,"ctnrCode":"","ctnrTyp":"","currentCallCode":"104","currentPositionCode":"104","data":"","indBind":"","mapCode":"AA","mapDataCode":"021395AA016960","mapShortName":"","materialLot":"","method":"arrive","orgCode":"","podCode":"100023","podDir":"","podNum":"","podTyp":"","reqCode":"186A63131021FBD","reqTime":"2023-03-03 14:38:07","robotCode":"9595","stgBinCode":"","subTaskNum":"","taskCode":"16541","taskTyp":"","tokenCode":"","username":"","wbCode":"1"}
+返回的消息体为空
+
+11、{"action":"","areaCode":"","berthCode":"","callCode":"14","callTyp":"","clientCode":"","cooX":20195.0,"cooY":13485.0,"ctnrCode":"","ctnrTyp":"","currentCallCode":"107","currentPositionCode":"107","data":"","indBind":"","mapCode":"AA","mapDataCode":"020195AA013485","mapShortName":"","materialLot":"","method":"end","orgCode":"","podCode":"100015","podDir":"","podNum":"","podTyp":"","reqCode":"186A6312F8F1FB9","reqTime":"2023-03-03 14:38:06","robotCode":"9596","stgBinCode":"","subTaskNum":"","taskCode":"16540","taskTyp":"","tokenCode":"","username":"","wbCode":"14"}
+返回的消息体为空
+
+12、{"action":"","areaCode":"","berthCode":"","callCode":"14","callTyp":"","clientCode":"","cooX":20195.0,"cooY":13485.0,"ctnrCode":"","ctnrTyp":"","currentCallCode":"107","currentPositionCode":"107","data":"","indBind":"","mapCode":"AA","mapDataCode":"020195AA013485","mapShortName":"","materialLot":"","method":"arrive","orgCode":"","podCode":"100015","podDir":"","podNum":"","podTyp":"","reqCode":"186A63114051FB4","reqTime":"2023-03-03 14:37:59","robotCode":"9596","stgBinCode":"","subTaskNum":"","taskCode":"16540","taskTyp":"","tokenCode":"","username":"","wbCode":"14"}
+返回的消息体为空
+
+13、{"action":"","areaCode":"","berthCode":"","callCode":"104","callTyp":"","clientCode":"","cooX":13995.0,"cooY":11065.0,"ctnrCode":"","ctnrTyp":"","currentCallCode":"15","currentPositionCode":"15","data":"","indBind":"","mapCode":"AA","mapDataCode":"013995AA011065","mapShortName":"","materialLot":"","method":"end","orgCode":"","podCode":"100008","podDir":"","podNum":"","podTyp":"","reqCode":"186A62F795D1FAF","reqTime":"2023-03-03 14:36:14","robotCode":"9596","stgBinCode":"","subTaskNum":"","taskCode":"16539","taskTyp":"","tokenCode":"","username":"","wbCode":"104"}
+返回的消息体为空
+
+14、{"action":"","areaCode":"","berthCode":"","callCode":"105","callTyp":"","clientCode":"","cooX":15145.0,"cooY":11065.0,"ctnrCode":"","ctnrTyp":"","currentCallCode":"14","currentPositionCode":"14","data":"","indBind":"","mapCode":"AA","mapDataCode":"015145AA011065","mapShortName":"","materialLot":"","method":"end","orgCode":"","podCode":"100015","podDir":"","podNum":"","podTyp":"","reqCode":"186A62F41301FA4","reqTime":"2023-03-03 14:36:00","robotCode":"9595","stgBinCode":"","subTaskNum":"","taskCode":"16538","taskTyp":"","tokenCode":"","username":"","wbCode":"105"}
+返回的消息体为空
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

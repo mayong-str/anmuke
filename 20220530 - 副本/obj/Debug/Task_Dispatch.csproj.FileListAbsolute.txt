@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\20220530 - 副本\obj\Debug\Task_Dispatch.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\20220530 - 副本\obj\Debug\Task_Dispatch.Form1.resources
+C:\Users\admin\Desktop\20220530 - 副本\obj\Debug\_20220530.Properties.Resources.resources
+C:\Users\admin\Desktop\20220530 - 副本\obj\Debug\Task_Dispatch.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\20220530 - 副本\obj\Debug\Task_Dispatch.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\20220530 - 副本\obj\Debug\20220530.exe
+C:\Users\admin\Desktop\20220530 - 副本\obj\Debug\20220530.pdb
+C:\Users\admin\Desktop\20220530 - 副本\bin\Debug\20220530.exe.config
+C:\Users\admin\Desktop\20220530 - 副本\bin\Debug\20220530.exe
+C:\Users\admin\Desktop\20220530 - 副本\bin\Debug\20220530.pdb
+C:\Users\admin\Desktop\20220530 - 副本\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\20220530 - 副本\bin\Debug\S7.Net.dll
+C:\Users\admin\Desktop\20220530 - 副本\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\20220530 - 副本\bin\Debug\S7.Net.xml
+C:\Users\admin\Desktop\20220530 - 副本\obj\Debug\Task_Dispatch.csproj.CopyComplete

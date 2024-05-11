@@ -1,0 +1,9 @@
+07-Nov-2022 15:57:04.899 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+07-Nov-2022 15:57:05.188 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Set web app root system property: 'webapp.root' = [D:\hikrobot\hikcms\webapps\rcms\]
+07-Nov-2022 15:57:05.191 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log JUL to SLF4J bridge is not available on the classpath
+07-Nov-2022 16:03:22.302 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+07-Nov-2022 16:03:22.599 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Set web app root system property: 'webapp.root' = [D:\hikrobot\hikcms\webapps\rcms\]
+07-Nov-2022 16:03:22.602 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log JUL to SLF4J bridge is not available on the classpath
+07-Nov-2022 16:45:46.727 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+07-Nov-2022 16:45:47.027 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Set web app root system property: 'webapp.root' = [D:\hikrobot\hikcms\webapps\rcms\]
+07-Nov-2022 16:45:47.030 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log JUL to SLF4J bridge is not available on the classpath

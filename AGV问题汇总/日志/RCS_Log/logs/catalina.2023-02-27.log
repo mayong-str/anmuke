@@ -1,0 +1,75 @@
+27-Feb-2023 09:33:28.974 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.39
+27-Feb-2023 09:33:28.980 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 14 2019 11:24:26 UTC
+27-Feb-2023 09:33:28.980 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.39.0
+27-Feb-2023 09:33:28.980 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+27-Feb-2023 09:33:28.980 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+27-Feb-2023 09:33:28.980 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+27-Feb-2023 09:33:28.980 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\RedHat\java-11-openjdk-11.0.6-2
+27-Feb-2023 09:33:28.980 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.6+10-LTS
+27-Feb-2023 09:33:28.980 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+27-Feb-2023 09:33:28.981 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\hikrobot\hikcms
+27-Feb-2023 09:33:28.981 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\hikrobot\hikcms
+27-Feb-2023 09:33:28.982 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+27-Feb-2023 09:33:28.982 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+27-Feb-2023 09:33:28.982 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+27-Feb-2023 09:33:28.982 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\hikrobot\hikcms
+27-Feb-2023 09:33:28.982 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\hikrobot\hikcms
+27-Feb-2023 09:33:28.983 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=D:\hikrobot\hikcms\endorsed
+27-Feb-2023 09:33:28.983 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\hikrobot\hikcms\temp
+27-Feb-2023 09:33:28.983 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Feb-2023 09:33:28.983 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\hikrobot\hikcms\conf\logging.properties
+27-Feb-2023 09:33:28.983 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms1024m
+27-Feb-2023 09:33:28.983 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx4096m
+27-Feb-2023 09:33:28.983 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:ReservedCodeCacheSize=64m
+27-Feb-2023 09:33:28.983 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Duser.timezone=GMT+08
+27-Feb-2023 09:33:28.983 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -verbose:gc
+27-Feb-2023 09:33:28.983 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms1024m
+27-Feb-2023 09:33:28.984 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx4096m
+27-Feb-2023 09:33:28.984 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\RedHat\java-11-openjdk-11.0.6-2\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Siemens\Automation\Simatic OAM\bin;C:\Program Files\Microsoft MPI\Bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\RedHat\java-11-openjdk-11.0.6-2\bin;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;.]
+27-Feb-2023 09:33:29.501 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8181"]
+27-Feb-2023 09:33:29.680 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+27-Feb-2023 09:33:29.950 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2537 ms
+27-Feb-2023 09:33:30.372 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Feb-2023 09:33:30.372 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.39
+27-Feb-2023 09:33:30.799 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\hikrobot\hikcms\webapps\download]
+27-Feb-2023 09:33:33.540 警告 [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [183] milliseconds.
+27-Feb-2023 09:33:33.655 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\hikrobot\hikcms\webapps\download] has finished in [2,856] ms
+27-Feb-2023 09:33:33.655 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\hikrobot\hikcms\webapps\rcms]
+27-Feb-2023 09:41:42.334 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.39
+27-Feb-2023 09:41:42.341 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 14 2019 11:24:26 UTC
+27-Feb-2023 09:41:42.341 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.39.0
+27-Feb-2023 09:41:42.341 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+27-Feb-2023 09:41:42.341 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+27-Feb-2023 09:41:42.341 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+27-Feb-2023 09:41:42.341 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\RedHat\java-11-openjdk-11.0.6-2
+27-Feb-2023 09:41:42.342 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.6+10-LTS
+27-Feb-2023 09:41:42.342 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+27-Feb-2023 09:41:42.342 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\hikrobot\hikcms
+27-Feb-2023 09:41:42.342 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\hikrobot\hikcms
+27-Feb-2023 09:41:42.343 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+27-Feb-2023 09:41:42.344 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+27-Feb-2023 09:41:42.344 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+27-Feb-2023 09:41:42.344 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\hikrobot\hikcms
+27-Feb-2023 09:41:42.344 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\hikrobot\hikcms
+27-Feb-2023 09:41:42.344 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=D:\hikrobot\hikcms\endorsed
+27-Feb-2023 09:41:42.344 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\hikrobot\hikcms\temp
+27-Feb-2023 09:41:42.344 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Feb-2023 09:41:42.344 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\hikrobot\hikcms\conf\logging.properties
+27-Feb-2023 09:41:42.344 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms1024m
+27-Feb-2023 09:41:42.344 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx4096m
+27-Feb-2023 09:41:42.344 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:ReservedCodeCacheSize=64m
+27-Feb-2023 09:41:42.344 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Duser.timezone=GMT+08
+27-Feb-2023 09:41:42.344 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -verbose:gc
+27-Feb-2023 09:41:42.344 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms1024m
+27-Feb-2023 09:41:42.345 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx4096m
+27-Feb-2023 09:41:42.345 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\RedHat\java-11-openjdk-11.0.6-2\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Siemens\Automation\Simatic OAM\bin;C:\Program Files\Microsoft MPI\Bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\RedHat\java-11-openjdk-11.0.6-2\bin;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;.]
+27-Feb-2023 09:41:43.797 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8181"]
+27-Feb-2023 09:41:43.991 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+27-Feb-2023 09:41:44.057 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2638 ms
+27-Feb-2023 09:41:44.350 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Feb-2023 09:41:44.350 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.39
+27-Feb-2023 09:41:44.437 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\hikrobot\hikcms\webapps\download]
+27-Feb-2023 09:41:45.874 警告 [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [154] milliseconds.
+27-Feb-2023 09:41:46.342 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\hikrobot\hikcms\webapps\download] has finished in [1,905] ms
+27-Feb-2023 09:41:46.343 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\hikrobot\hikcms\webapps\rcms]
+27-Feb-2023 09:42:24.973 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.

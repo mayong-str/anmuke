@@ -1,0 +1,15 @@
+<RequestParameter>
+  <reqCode></reqCode>
+  <reqTime></reqTime>
+  <clientCode></clientCode>
+  <tokenCode></tokenCode>
+  <webCode></webCode>  
+  <podCode></podCode>
+  <agvCode></agvCode>
+  <taskCode>7</taskCode>
+  <taskSeq></taskSeq>
+  <nextPositionCode>
+    <positionCode></positionCode>
+    <type>10</type>
+  </nextPositionCode>
+</RequestParameter>

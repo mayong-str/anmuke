@@ -1,0 +1,10 @@
+<RequestParameter>
+  <reqCode></reqCode>
+  <reqTime></reqTime>
+  <clientCode></clientCode>
+  <tokenCode></tokenCode>
+  <forceCance></forceCance>
+  <matterArea></matterArea>
+  <agvCode></agvCode>
+  <taskCode>7</taskCode>
+</RequestParameter>

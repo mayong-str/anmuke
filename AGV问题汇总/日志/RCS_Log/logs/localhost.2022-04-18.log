@@ -1,0 +1,9 @@
+18-Apr-2022 13:48:01.846 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+18-Apr-2022 13:48:02.151 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Set web app root system property: 'webapp.root' = [D:\hikrobot\hikcms\webapps\rcms\]
+18-Apr-2022 13:48:02.157 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log JUL to SLF4J bridge is not available on the classpath
+18-Apr-2022 13:48:02.686 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+18-Apr-2022 13:49:36.248 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+18-Apr-2022 13:49:36.479 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Set web app root system property: 'webapp.root' = [D:\hikrobot\hikcms\webapps\rcms\]
+18-Apr-2022 13:49:36.482 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log JUL to SLF4J bridge is not available on the classpath
+18-Apr-2022 13:49:37.115 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+18-Apr-2022 13:50:26.801 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springMVC'

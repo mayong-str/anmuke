@@ -1,0 +1,37 @@
+[2022-02-18 16:11:25] [info]  [12848] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2022-02-18 16:11:26] [info]  [12848] Service HIKCMS name Apache Tomcat 8.5 HIKCMS
+[2022-02-18 16:11:26] [info]  [12848] Service 'HIKCMS' installed
+[2022-02-18 16:11:26] [info]  [12848] Commons Daemon procrun finished
+[2022-02-18 16:11:26] [info]  [10968] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2022-02-18 16:11:26] [info]  [10968] Updating service...
+[2022-02-18 16:11:26] [info]  [10968] Service 'HIKCMS' updated
+[2022-02-18 16:11:27] [info]  [10968] Update service finished.
+[2022-02-18 16:11:27] [info]  [10968] Commons Daemon procrun finished
+[2022-02-18 16:11:27] [info]  [12576] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2022-02-18 16:11:27] [info]  [12576] Updating service...
+[2022-02-18 16:11:27] [info]  [12576] Service 'HIKCMS' updated
+[2022-02-18 16:11:27] [info]  [12576] Update service finished.
+[2022-02-18 16:11:28] [info]  [12576] Commons Daemon procrun finished
+[2022-02-18 16:11:28] [info]  [12520] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2022-02-18 16:11:28] [info]  [12520] Updating service...
+[2022-02-18 16:11:28] [info]  [12520] Service 'HIKCMS' updated
+[2022-02-18 16:11:28] [info]  [12520] Update service finished.
+[2022-02-18 16:11:28] [info]  [12520] Commons Daemon procrun finished
+[2022-02-18 16:11:28] [info]  [11340] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2022-02-18 16:11:28] [info]  [11340] Updating service...
+[2022-02-18 16:11:28] [info]  [11340] Service 'HIKCMS' updated
+[2022-02-18 16:11:28] [info]  [11340] Update service finished.
+[2022-02-18 16:11:28] [info]  [11340] Commons Daemon procrun finished
+[2022-02-18 16:11:28] [info]  [11328] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2022-02-18 16:11:29] [info]  [11328] Updating service...
+[2022-02-18 16:11:29] [info]  [11328] Service 'HIKCMS' updated
+[2022-02-18 16:11:29] [info]  [11328] Update service finished.
+[2022-02-18 16:11:29] [info]  [11328] Commons Daemon procrun finished
+[2022-02-18 16:12:21] [info]  [14060] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2022-02-18 16:12:21] [info]  [14060] Running 'HIKCMS' Service...
+[2022-02-18 16:12:21] [info]  [11636] Starting service...
+[2022-02-18 16:12:21] [info]  [11636] Service started in 3 ms.
+[2022-02-18 17:34:08] [info]  [14296] Stopping service...
+[2022-02-18 17:34:15] [info]  [14296] Service stop thread completed.
+[2022-02-18 17:34:15] [info]  [14060] Run service finished.
+[2022-02-18 17:34:15] [info]  [14060] Commons Daemon procrun finished

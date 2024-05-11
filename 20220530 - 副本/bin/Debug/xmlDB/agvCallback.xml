@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RequestParameter>
+  <reqCode>0</reqCode>
+  <reqTime>1</reqTime>
+  <cooX>2</cooX>
+  <cooY>3</cooY>
+  <currentPositionCode>4</currentPositionCode>
+  <data>5</data>
+  <mapCode>6</mapCode>
+  <mapDataCode>7</mapDataCode>
+  <method>8</method>
+  <podCode>9</podCode>
+  <podDir>10</podDir>
+  <robotCode>11</robotCode>
+  <taskCode>12</taskCode>
+  <wbCode>13</wbCode>
+</RequestParameter>

@@ -1,0 +1,26 @@
+<RequestParameter>
+  <reqCode></reqCode>
+  <reqTime></reqTime>
+  <clientCode></clientCode>
+  <tokenCode></tokenCode>
+  <taskTyp>4</taskTyp>
+  <ctnrTyp></ctnrTyp>
+  <ctnrCode></ctnrCode>
+  <webCode></webCode>
+  <positionCodePath ID="1">
+    <positionCode>8</positionCode>
+    <type>9</type>
+  </positionCodePath>
+  <positionCodePath ID="2">
+    <positionCode>10</positionCode>
+    <type>11</type>
+  </positionCodePath>
+  <podCode></podCode>
+  <podDir></podDir>
+  <podTyp></podTyp>
+  <materialLot></materialLot>
+  <priority></priority>
+  <agvCode></agvCode>
+  <taskCode>18</taskCode>
+  <data></data>
+</RequestParameter>

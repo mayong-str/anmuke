@@ -1,0 +1,12 @@
+﻿<RequestParameter>
+  <reqCode></reqCode>
+  <reqTime></reqTime>
+  <clientCode></clientCode>
+  <tokenCode></tokenCode>
+  <matterArea>4</matterArea>
+  <indBind>5</indBind>
+  <pause>6</pause>
+  <controlMod>7</controlMod>
+  <targetArea>8</targetArea>
+  <noticeThird>9</noticeThird>
+</RequestParameter>

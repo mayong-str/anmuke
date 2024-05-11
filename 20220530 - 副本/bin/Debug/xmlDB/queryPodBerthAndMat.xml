@@ -1,0 +1,11 @@
+<RequestParameter>
+  <reqCode></reqCode>
+  <reqTime></reqTime>
+  <clientCode></clientCode>
+  <tokenCode></tokenCode>
+  <podCode></podCode>
+  <materialLot></materialLot>
+  <positionCode>6</positionCode>
+  <areaCode></areaCode>
+  <mapShortName></mapShortName>
+</RequestParameter>

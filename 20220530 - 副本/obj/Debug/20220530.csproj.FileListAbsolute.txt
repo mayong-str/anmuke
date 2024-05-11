@@ -1,0 +1,66 @@
+C:\Users\admin\source\repos\20220530\bin\Debug\20220530.exe.config
+C:\Users\admin\source\repos\20220530\bin\Debug\20220530.exe
+C:\Users\admin\source\repos\20220530\bin\Debug\20220530.pdb
+C:\Users\admin\source\repos\20220530\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\20220530\bin\Debug\S7.Net.dll
+C:\Users\admin\source\repos\20220530\bin\Debug\XmlTools.dll
+C:\Users\admin\source\repos\20220530\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\20220530\bin\Debug\S7.Net.xml
+C:\Users\admin\source\repos\20220530\obj\Debug\_20220530.Form1.resources
+C:\Users\admin\source\repos\20220530\obj\Debug\_20220530.Properties.Resources.resources
+C:\Users\admin\source\repos\20220530\obj\Debug\20220530.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\20220530\obj\Debug\20220530.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\20220530\obj\Debug\20220530.csproj.CopyComplete
+C:\Users\admin\source\repos\20220530\obj\Debug\20220530.exe
+C:\Users\admin\source\repos\20220530\obj\Debug\20220530.pdb
+C:\Users\admin\source\repos\20220530\obj\Debug\20220530.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\20220530\obj\Debug\20220530.csproj.SuggestedBindingRedirects.cache
+E:\博工文件资料\source\repos\20220530\bin\Debug\20220530.exe.config
+E:\博工文件资料\source\repos\20220530\bin\Debug\20220530.exe
+E:\博工文件资料\source\repos\20220530\bin\Debug\20220530.pdb
+E:\博工文件资料\source\repos\20220530\bin\Debug\Newtonsoft.Json.dll
+E:\博工文件资料\source\repos\20220530\bin\Debug\S7.Net.dll
+E:\博工文件资料\source\repos\20220530\bin\Debug\XmlTools.dll
+E:\博工文件资料\source\repos\20220530\bin\Debug\Newtonsoft.Json.xml
+E:\博工文件资料\source\repos\20220530\bin\Debug\S7.Net.xml
+E:\博工文件资料\source\repos\20220530\obj\Debug\20220530.csproj.AssemblyReference.cache
+E:\博工文件资料\source\repos\20220530\obj\Debug\20220530.csproj.SuggestedBindingRedirects.cache
+E:\博工文件资料\source\repos\20220530\obj\Debug\_20220530.Form1.resources
+E:\博工文件资料\source\repos\20220530\obj\Debug\_20220530.Properties.Resources.resources
+E:\博工文件资料\source\repos\20220530\obj\Debug\20220530.csproj.GenerateResource.cache
+E:\博工文件资料\source\repos\20220530\obj\Debug\20220530.csproj.CoreCompileInputs.cache
+E:\博工文件资料\source\repos\20220530\obj\Debug\20220530.csproj.CopyComplete
+E:\博工文件资料\source\repos\20220530\obj\Debug\20220530.exe
+E:\博工文件资料\source\repos\20220530\obj\Debug\20220530.pdb
+E:\项目\amcor\20220530\bin\Debug\20220530.exe.config
+E:\项目\amcor\20220530\bin\Debug\20220530.exe
+E:\项目\amcor\20220530\bin\Debug\20220530.pdb
+E:\项目\amcor\20220530\bin\Debug\Newtonsoft.Json.dll
+E:\项目\amcor\20220530\bin\Debug\S7.Net.dll
+E:\项目\amcor\20220530\bin\Debug\Newtonsoft.Json.xml
+E:\项目\amcor\20220530\bin\Debug\S7.Net.xml
+E:\项目\amcor\20220530\obj\Debug\20220530.csproj.AssemblyReference.cache
+E:\项目\amcor\20220530\obj\Debug\20220530.csproj.SuggestedBindingRedirects.cache
+E:\项目\amcor\20220530\obj\Debug\_20220530.Form1.resources
+E:\项目\amcor\20220530\obj\Debug\_20220530.Properties.Resources.resources
+E:\项目\amcor\20220530\obj\Debug\20220530.csproj.GenerateResource.cache
+E:\项目\amcor\20220530\obj\Debug\20220530.csproj.CoreCompileInputs.cache
+E:\项目\amcor\20220530\obj\Debug\20220530.csproj.CopyComplete
+E:\项目\amcor\20220530\obj\Debug\20220530.exe
+E:\项目\amcor\20220530\obj\Debug\20220530.pdb
+E:\项目\amcor\20220530 - 副本\bin\Debug\20220530.exe.config
+E:\项目\amcor\20220530 - 副本\bin\Debug\20220530.exe
+E:\项目\amcor\20220530 - 副本\bin\Debug\20220530.pdb
+E:\项目\amcor\20220530 - 副本\bin\Debug\Newtonsoft.Json.dll
+E:\项目\amcor\20220530 - 副本\bin\Debug\S7.Net.dll
+E:\项目\amcor\20220530 - 副本\bin\Debug\Newtonsoft.Json.xml
+E:\项目\amcor\20220530 - 副本\bin\Debug\S7.Net.xml
+E:\项目\amcor\20220530 - 副本\obj\Debug\20220530.csproj.AssemblyReference.cache
+E:\项目\amcor\20220530 - 副本\obj\Debug\20220530.csproj.SuggestedBindingRedirects.cache
+E:\项目\amcor\20220530 - 副本\obj\Debug\_20220530.Form1.resources
+E:\项目\amcor\20220530 - 副本\obj\Debug\_20220530.Properties.Resources.resources
+E:\项目\amcor\20220530 - 副本\obj\Debug\20220530.csproj.GenerateResource.cache
+E:\项目\amcor\20220530 - 副本\obj\Debug\20220530.csproj.CoreCompileInputs.cache
+E:\项目\amcor\20220530 - 副本\obj\Debug\20220530.csproj.CopyComplete
+E:\项目\amcor\20220530 - 副本\obj\Debug\20220530.exe
+E:\项目\amcor\20220530 - 副本\obj\Debug\20220530.pdb

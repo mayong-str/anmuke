@@ -1,0 +1,2 @@
+18-Sep-2022 07:14:47.421 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+18-Sep-2022 07:14:47.426 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal Context [/rcms] startup failed due to previous errors

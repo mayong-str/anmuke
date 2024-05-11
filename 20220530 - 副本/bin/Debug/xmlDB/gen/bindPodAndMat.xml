@@ -1,0 +1,11 @@
+<RequestParameter>
+  <reqCode></reqCode>
+  <reqTime></reqTime>
+  <clientCode></clientCode>
+  <tokenCode></tokenCode>
+  <podCode>4</podCode>
+  <positionCode>5</positionCode>
+  <podDir>6</podDir>
+  <characterValue>7</characterValue>
+  <indBind>8</indBind>
+</RequestParameter>
